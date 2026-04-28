@@ -1,0 +1,4 @@
+model,outcome,control_var,contrast,estimate_difference,std_error,t_value,p_value
+rq3_frame_effects,Tolerance for future backsliding (re-election support),baseline_affpol_abs,Electoral vs democracy,-0.6187861366562455,0.6098019965523869,-1.0147328807623652,0.3102331759310828
+rq3_frame_effects,Affective polarization (index),baseline_affpol_abs,Electoral vs democracy,0.32110971769503477,0.2632275163274476,1.2198941895405164,0.2225049887819639
+rq3_frame_effects,Affective polarization (latent),baseline_affpol_abs,Electoral vs democracy,-0.35589975265879914,0.3540591108147205,-1.0051986851569592,0.3148011881855479

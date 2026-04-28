@@ -1,0 +1,8 @@
+{
+  "input_file": "/Users/tonyzhong/Desktop/UChicago/2025-2026 spring/sosc 133/Offer-Westort_April 28, 2026_08.08.csv",
+  "output_dir": "/Users/tonyzhong/Documents/Playground/sosc133_ssi/output",
+  "primary_control_var": "baseline_affpol_abs",
+  "analysis_n": 97,
+  "treated_n": 76,
+  "control_n": 21
+}

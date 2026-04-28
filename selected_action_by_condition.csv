@@ -1,0 +1,8 @@
+condition_7,Banning political rallies,Directing law enforcement to investigate politicians of the opposing party,Manipulating geographic boundaries of election districts,Prosecuting journalists for unfair news coverage,Restructuring the state’s highest court in the incumbent’s favor
+Control,2,5,2,7,5
+InParty-Policy,3,3,2,4,4
+InParty-Electoral,2,2,2,4,1
+InParty-Democracy,3,3,1,2,3
+OutParty-Policy,1,4,5,2,3
+OutParty-Electoral,5,3,1,4,2
+OutParty-Democracy,1,1,1,4,0
